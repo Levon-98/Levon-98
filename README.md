@@ -105,6 +105,76 @@
 ### 📜 And more...
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251334%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 58 Contributions in the Year 2021
+ > 
+> 📦 1.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+🌃 Evening    54 commits     ████████████████░░░░░░░░░   65.06% 
+🌙 Night      23 commits     ███████░░░░░░░░░░░░░░░░░░   27.71%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
+Tuesday      20 commits     ██████░░░░░░░░░░░░░░░░░░░   24.1% 
+Wednesday    27 commits     ████████░░░░░░░░░░░░░░░░░   32.53% 
+Thursday     13 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
+Friday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Samara
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   35 repos            ████████████████████████░   97.22% 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Levon-98/Levon-98/main/charts/bar_graph.png) 
+
+
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 
