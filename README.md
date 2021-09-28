@@ -35,6 +35,9 @@
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></code>
 
+### 📊 Quick stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Levon-98&theme=blue-green)](https://git.io/streak-stats)
 
 <!--
 **Levon-98/Levon-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
