@@ -35,11 +35,22 @@
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></code>
 
-### 📊 Quick stats
+### 📊 Quick Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Levon-98&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levon-98&show_icons=true&theme=tokyonight)
+
+### ⌨️Latest Activities
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 📜 And more...
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **Levon-98/Levon-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
