@@ -2,6 +2,13 @@
   <img src="readme_media/github.gif" alt="Hi, I am Levon" />
 </p>
 
+<p>
+<title>
+👨‍💻 Levon Harutyunyan | 👨‍🎓 ⏳ Loading Master of Science in Information Technology | 💻 Scraping and Back End Developer 
+</title>
+<img src=”https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47yqrdpoj50mhq45n2xdkm0bf97koxe8d4xygioege&rid=giphy.gif&ct=g” ALIGN=”right” />
+</p>
+
 <!--
 **Levon-98/Levon-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
