@@ -6,7 +6,7 @@
 <h3>
 👨‍💻 Levon Harutyunyan | 👨‍🎓 ⏳ Loading Master of Science in Information Technology | 💻 Scraping and Back End Developer 
 </h3>
-<img src=”https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47yqrdpoj50mhq45n2xdkm0bf97koxe8d4xygioege&rid=giphy.gif&ct=g” ALIGN=”right” />
+<img src=”https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47yqrdpoj50mhq45n2xdkm0bf97koxe8d4xygioege&rid=giphy.gif&ct=g” />
 
 
 <!--
