@@ -4,9 +4,10 @@
 
 
 <h3>
-👨‍💻 Levon Harutyunyan | 👨‍🎓 ⏳ Loading Master of Science in Information Technology | 💻 Scraping and Back End Developer 
+👨‍💻 Levon Harutyunyan | 👨‍🎓 ⏳ Loading Master of Science in Information Technology | 
+💻 Scraping and Back End Developer | 🌍 Yerevan, Armenia
 </h3>
-<img src=”https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47yqrdpoj50mhq45n2xdkm0bf97koxe8d4xygioege&rid=giphy.gif&ct=g” />
+<img src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=790b761109582f7f1cf7751f349ad942adf32042d389c473&rid=giphy.gif" alt="bug fix" align="right" width="200" height="auto" />
 
 
 <!--
