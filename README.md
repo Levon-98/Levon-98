@@ -37,7 +37,9 @@
 
 ### 📊 Quick stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Levon-98&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Levon-98&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levon-98&show_icons=true&theme=tokyonight)
 
 <!--
 **Levon-98/Levon-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
