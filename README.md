@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="readme_media/github.gif" alt="Hi, I am Levon" />
+</p>
 
 <!--
 **Levon-98/Levon-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
