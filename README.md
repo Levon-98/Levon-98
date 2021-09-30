@@ -44,6 +44,7 @@
 ### ⌨️Latest Activities
 
 <!--START_SECTION:activity-->
+`[09/30 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/30 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/29 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/29 00:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
@@ -53,10 +54,10 @@
 `[09/27 16:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/24 11:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/24 10:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Levon-98/Levon-98/tree/main) in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
-`[09/24 10:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 
 <details><summary>Show More</summary>
 
+`[09/24 10:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/24 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/24 10:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Levon-98/Levon-98/tree/main) in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/24 10:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
