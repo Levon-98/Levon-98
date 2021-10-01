@@ -44,6 +44,8 @@
 ### ⌨️Latest Activities
 
 <!--START_SECTION:activity-->
+`[10/01 13:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒Levon-98/allabolag`</span>  
+`[10/01 13:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒Levon-98/allabolag`</span>  
 `[10/01 00:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/30 19:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/30 11:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)  
@@ -52,11 +54,11 @@
 `[09/29 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/29 00:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/28 14:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Sofiyayan/Sofiyayan](https://github.com/Sofiyayan/Sofiyayan)  
-`[09/28 14:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Levon-98/Levon-98/tree/main) in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
-`[09/28 14:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 
 <details><summary>Show More</summary>
 
+`[09/28 14:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Levon-98/Levon-98/tree/main) in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
+`[09/28 14:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/27 16:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒Sofiyayan/order_migrator`</span>  
 `[09/24 11:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
 `[09/24 10:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Levon-98/Levon-98/tree/main) in [Levon-98/Levon-98](https://github.com/Levon-98/Levon-98)  
