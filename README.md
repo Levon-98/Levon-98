@@ -211,7 +211,7 @@ Python                   38 repos            ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Levon-98/Levon-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 
 
