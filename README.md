@@ -7,7 +7,6 @@
 💻 Scraping and Back End Developer | 🌍 Yerevan, Armenia
 </h3>
 
-<img src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=790b761109582f7f1cf7751f349ad942adf32042d389c473&rid=giphy.gif" alt="bug fix" align="right" width="200" height="auto" />
 
 ### 🤔 Nerdy quote of the day
 
